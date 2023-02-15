@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calendar Range</string>
+    <string name="empty_date_text">10</string>
+</resources>
